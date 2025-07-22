@@ -24,7 +24,7 @@ It allows users to:
 
 ## 📸 Screenshot
 
-![App UI](./screenshot.png)
+![App UI](screenshot.png)
 
 ---
 
