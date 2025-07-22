@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# Python environment files
+*.env
+*.venv
+
+# IDE/editor settings
+.vscode/
+.idea/
+
+# files
+password.txt
