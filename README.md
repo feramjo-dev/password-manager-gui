@@ -10,7 +10,7 @@ It allows users to:
 
 > Designed with minimalism in mind — perfect for quick offline usage.
 
----
+
 
 ## 🚀 Features
 
@@ -23,13 +23,13 @@ It allows users to:
 - Pre-fills commonly used email address
 - Helpful error messages and confirmation prompts
 
----
+
 
 ## 📸 Screenshot
 
 ![App UI](screenshot.png)
 
----
+
 
 ## 🛠️ How to Run
 
