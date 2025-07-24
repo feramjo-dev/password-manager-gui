@@ -13,4 +13,4 @@ env/
 .idea/
 
 # files
-password.txt
+password_data.json

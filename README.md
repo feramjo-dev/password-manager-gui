@@ -16,9 +16,12 @@ It allows users to:
 
 - Random password generator with mix of letters, numbers, and symbols
 - User-friendly interface using Tkinter
-- Local data storage in `password.txt`
+- Local data storage in `password_data.json`
 - Automatically copies generated password to clipboard
+- Search saved credentials by website
+- Detect and update existing website data
 - Pre-fills commonly used email address
+- Helpful error messages and confirmation prompts
 
 ---
 
